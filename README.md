@@ -1,5 +1,10 @@
+![business_card_black_git](https://user-images.githubusercontent.com/64660486/88876327-6af93400-d1f9-11ea-9bd0-d72cbf4e1bd3.png)
+
 ### Hi there 👋
 
+My name is Rafael Colombo and I'm new on Programming! Started last May as a hobby and now I'm enjoying and learning everything I can. I'm Electrical Engineer graduated in 2005, so numbers, math and logic runs my blood.
+
+I'm studying Python and all its ramifications, like Web Scraping, Machine Learning, Data Science etc. I hope to learn even more to be part of this amazing community.
 <!--
 **rafaelcolombo/rafaelcolombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
