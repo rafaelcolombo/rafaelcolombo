@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-My name is Rafael Colombo and I'm new on Programming! Started last May as a hobby and now I'm enjoying and learning everything I can. I'm Electrical Engineer graduated in 2005, so numbers, math and logic runs my blood.
+My name is Rafael Colombo and I'm new on Programming! I've started last May as a hobby and now I'm enjoying and learning everything I can. I'm Electrical Engineer graduated in 2005, so numbers, math and logic runs in my blood.
 
 I'm studying Python and all its ramifications, like Web Scraping, Machine Learning, Data Science etc. I hope to learn even more to be part of this amazing community.
 <!--
