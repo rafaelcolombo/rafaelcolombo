@@ -4,7 +4,12 @@
 
 My name is Rafael Colombo and I'm new on Programming! I've started last May as a hobby and now I'm enjoying and learning everything I can. I'm Electrical Engineer graduated in 2005, so numbers, math and logic runs in my blood.
 
-I'm studying Python and all its ramifications, like Web Scraping, Machine Learning, Data Science etc. I hope to learn even more to be part of this amazing community.
+This is all very new for me and, after some research, I've notice that many programmers LOVE PYTHON! Thats why I'm studying Python and all its ramifications, like Web Scraping, Machine Learning, Data Science etc. I'm currently working Web Scraping to feed a Telegram Bot.
+
+I hope to learn even more to be part of this amazing community.
+
+Outside GitHub you can find me at Instagram. Follow me there:
+
 <!--
 **rafaelcolombo/rafaelcolombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
