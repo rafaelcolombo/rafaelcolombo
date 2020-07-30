@@ -8,7 +8,8 @@ This is all very new for me and, after some research, I've notice that many prog
 
 I hope to learn even more to be part of this amazing community.
 
-Outside GitHub you can find me at Instagram. Follow me there:
+Outside GitHub you can find me @ Instagram. Follow me there:
+[![Ícone Instagram](https://user-images.githubusercontent.com/64660486/88877347-9e3cc280-d1fb-11ea-8bdd-2e605fd3de65.png)](https://www.instagram.com/rafaelcolombo)
 
 <!--
 **rafaelcolombo/rafaelcolombo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
